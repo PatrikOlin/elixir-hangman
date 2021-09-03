@@ -1,0 +1,4 @@
+<section>
+    <h1>Welcome to hangman</h1>
+    <%= new_game_button(@conn) %>
+</section>
